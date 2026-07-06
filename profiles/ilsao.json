@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "ilsao",
+  "displayName": "asciibase64",
+  "tagline": "jmp 0x7c00",
+  "interests": ["Efficient AI", "MLSys", "Systems"],
+  "faction": {
+    "os": "linux",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
