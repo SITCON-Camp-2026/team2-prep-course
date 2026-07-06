@@ -1,7 +1,7 @@
 {
     "$schema": "../schemas/profile.schema.json",
     "github": "hhyn07",
-    "displayName": "芋泥",
+    "displayName": "<button onclick=\"alert('XSS demo')>Click me</botton>",
     "tagline": "第二小隊的小隊輔",
     "interests": [
         "AI",
