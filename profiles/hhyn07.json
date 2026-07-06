@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "hhyn07",
+    "displayName": "芋泥",
+    "tagline": "第二小隊的小隊輔",
+    "interests": [
+        "AI",
+        "資安"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
