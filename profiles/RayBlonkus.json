@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "RayBlonkus",
+  "displayName": "RayBlonkus",
+  "tagline": "喜歡畫畫寫程式車子和研究東西的人",
+  "interests": ["UI/UX", "應用程式", "影像處理"],
+  "faction": {
+    "os": "macos",
+    "browser": "safari",
+    "editor": "vscode"
+  }
+}
