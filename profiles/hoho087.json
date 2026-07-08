@@ -1,0 +1,16 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "hoho087",
+    "displayName": "hoho087",
+    "tagline": "67",
+    "interests": [
+        "遊戲",
+        "拳擊",
+        "資訊"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
