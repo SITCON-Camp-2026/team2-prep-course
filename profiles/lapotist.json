@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "lapotist",
+  "displayName": "小拉",
+  "tagline": "哈哈哈哈哈哈哈哈",
+  "interests": ["資安", "逆向工程", "遊戲"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
