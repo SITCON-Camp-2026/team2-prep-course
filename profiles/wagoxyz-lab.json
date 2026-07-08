@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "wagoxyz-lab",
+    "displayName": "許天擎",
+    "tagline": "嗨！",
+    "interests": [
+        "活著"
+    ],
+    "faction": {
+        "os": "macos",
+        "browser": "safari",
+        "editor": "vscode"
+    }
+}

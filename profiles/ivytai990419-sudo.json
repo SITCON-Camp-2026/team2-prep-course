@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "ivytai990419-sudo",
+    "displayName": "戴羿涵",
+    "tagline": "嗨",
+    "interests": [
+        "資安",
+        "程式"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
